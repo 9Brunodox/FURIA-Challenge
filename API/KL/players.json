@@ -1,0 +1,311 @@
+[
+    {
+        "id": 33904,
+        "shortName": "Jeffinho",
+        "role": "midfielder",
+        "gender": "male",
+        "countryId": 17,
+        "jersey": "12",
+        "birthDate": "1995-09-27",
+        "height": 178,
+        "image": {
+            "url": "https://kingsleague-cdn.kama.football/account/production/player/aab29218-9c94-4835-ac69-9ee764db0f31/549237369.png"
+        },
+        "metaInformation": {
+            "status": "Wildcard"
+        },
+        "category": "wildcard"
+    },
+    {
+        "id": 33918,
+        "shortName": "Lipão",
+        "role": "forward",
+        "gender": "male",
+        "countryId": 17,
+        "jersey": "10",
+        "birthDate": "1996-12-11",
+        "height": 170,
+        "image": {
+            "url": "https://kingsleague-cdn.kama.football/account/production/player/6af24538-8ba9-48de-a2cf-321e9ba214ec/781709020.png"
+        },
+        "metaInformation": {
+            "status": "Wildcard"
+        },
+        "category": "wildcard"
+    },
+    {
+        "id": 33932,
+        "shortName": "Leleti",
+        "role": "forward",
+        "gender": "male",
+        "countryId": 17,
+        "jersey": "11",
+        "birthDate": "1996-06-21",
+        "height": 173,
+        "image": {
+            "url": "https://kingsleague-cdn.kama.football/account/production/player/c28d327c-0e79-48f3-ba08-6ad9a732c2b7/236007128.png"
+        },
+        "metaInformation": null,
+        "category": "wildcard"
+    },
+    {
+        "id": 68187,
+        "shortName": "Guilherme Monagatti",
+        "role": "forward",
+        "gender": "male",
+        "countryId": 17,
+        "jersey": "9",
+        "birthDate": "1992-02-10",
+        "height": 183,
+        "image": {
+            "url": "https://kingsleague-cdn.kama.football/account/production/player/f08d5326-feb2-4da3-9b14-c5142d1086ea/293995284.png"
+        },
+        "metaInformation": {
+            "duels": "83",
+            "skills": "83",
+            "average": "81",
+            "defence": "72",
+            "passing": "77",
+            "physical": "86",
+            "shooting": "87",
+            "matchLink": "https://youtu.be/heRN3LonAGg",
+            "videoLink": "https://youtu.be/qrvWa47q60I",
+            "jerseyNumber": "6"
+        },
+        "category": "draft"
+    },
+    {
+        "id": 68857,
+        "shortName": "Caio Catroca",
+        "role": "midfielder",
+        "gender": "male",
+        "countryId": 17,
+        "jersey": "3",
+        "birthDate": "1991-08-30",
+        "height": 177,
+        "image": {
+            "url": "https://kingsleague-cdn.kama.football/account/production/player/89065320-05b9-4f49-9e38-c93df0cb023d/668512939.png"
+        },
+        "metaInformation": {
+            "duels": "75",
+            "skills": "79",
+            "average": "78",
+            "defence": "77",
+            "passing": "76",
+            "physical": "82",
+            "shooting": "77",
+            "matchLink": "https://youtu.be/heRN3LonAGg",
+            "videoLink": "https://youtu.be/BZsd2MqHII8",
+            "jerseyNumber": "14"
+        },
+        "category": "draft"
+    },
+    {
+        "id": 69089,
+        "shortName": "Murillo Donato",
+        "role": "forward",
+        "gender": "male",
+        "countryId": 17,
+        "jersey": "8",
+        "birthDate": "1999-07-24",
+        "height": 178,
+        "image": {
+            "url": "https://kingsleague-cdn.kama.football/account/production/player/c3463ab5-2630-46d7-8932-629fa1c96626/190143025.png"
+        },
+        "metaInformation": {
+            "duels": "83",
+            "skills": "81",
+            "average": "80",
+            "defence": "70",
+            "passing": "79",
+            "physical": "86",
+            "shooting": "84",
+            "matchLink": "https://youtu.be/pyrJOtXKH0g",
+            "videoLink": "https://youtu.be/-GnXTohcJ7U",
+            "jerseyNumber": "180"
+        },
+        "category": "draft"
+    },
+    {
+        "id": 69112,
+        "shortName": "Andrey Batata",
+        "role": "midfielder",
+        "gender": "male",
+        "countryId": 17,
+        "jersey": "5",
+        "birthDate": "2002-03-24",
+        "height": 181,
+        "image": {
+            "url": "https://kingsleague-cdn.kama.football/account/production/player/37113bdc-a9db-4383-8e7c-85830121c76d/189709762.png"
+        },
+        "metaInformation": {
+            "duels": "77",
+            "skills": "75",
+            "average": "79",
+            "defence": "80",
+            "passing": "84",
+            "physical": "76",
+            "shooting": "79",
+            "matchLink": "https://youtu.be/pyrJOtXKH0g",
+            "videoLink": "https://youtu.be/xapXTycmJYI",
+            "jerseyNumber": "34"
+        },
+        "category": "wildcard"
+    },
+    {
+        "id": 69648,
+        "shortName": "Ryan Lima",
+        "role": "forward",
+        "gender": "male",
+        "countryId": 17,
+        "jersey": "77",
+        "birthDate": "2001-07-17",
+        "height": 179,
+        "image": {
+            "url": "https://kingsleague-cdn.kama.football/account/production/player/7a056915-4d57-4fe5-8fb6-c0b6f3700ad7/79092573.png"
+        },
+        "metaInformation": {
+            "duels": "77",
+            "skills": "74",
+            "average": "75",
+            "defence": "70",
+            "passing": "71",
+            "physical": "75",
+            "shooting": "79",
+            "matchLink": "https://youtu.be/a1O7No9x1H0",
+            "videoLink": "https://youtu.be/C2BTY05Oq0k",
+            "jerseyNumber": "22"
+        },
+        "category": "draft"
+    },
+    {
+        "id": 70816,
+        "shortName": "Matheus Ayosa",
+        "role": "goalkeeper",
+        "gender": "male",
+        "countryId": 17,
+        "jersey": "1",
+        "birthDate": "1999-11-09",
+        "height": 180,
+        "image": {
+            "url": "https://kingsleague-cdn.kama.football/account/production/player/502d022d-cfc8-421c-8309-4cf72425e0e1/286329034.png"
+        },
+        "metaInformation": {
+            "duels": "75",
+            "diving": "85",
+            "average": "78",
+            "handling": "85",
+            "reflexes": "70",
+            "matchLink": "https://youtu.be/cgnA5pkU_IM",
+            "videoLink": "https://youtu.be/hTkJZ-iOYSI",
+            "anticipation": "85",
+            "jerseyNumber": "330",
+            "goalkeeperPassing": "64"
+        },
+        "category": "draft"
+    },
+    {
+        "id": 71032,
+        "shortName": "João Pelegrini",
+        "role": "defender",
+        "gender": "male",
+        "countryId": 17,
+        "jersey": "22",
+        "birthDate": "1998-02-08",
+        "height": 188,
+        "image": {
+            "url": "https://kingsleague-cdn.kama.football/account/production/player/625fdb80-afb8-4ba5-99a3-eefa7a92ccfe/610208489.png"
+        },
+        "metaInformation": {
+            "duels": "71",
+            "skills": "61",
+            "average": "73",
+            "defence": "78",
+            "passing": "78",
+            "physical": "78",
+            "shooting": "68",
+            "matchLink": "https://youtu.be/cgnA5pkU_IM",
+            "videoLink": "https://youtu.be/YXScwD-A-EA",
+            "jerseyNumber": "62"
+        },
+        "category": "draft"
+    },
+    {
+        "id": 71449,
+        "shortName": "Gabriel Pastuch",
+        "role": "forward",
+        "gender": "male",
+        "countryId": 17,
+        "jersey": "7",
+        "birthDate": "2004-06-16",
+        "height": 177,
+        "image": {
+            "url": "https://kingsleague-cdn.kama.football/account/production/player/60b721f7-34d4-45c9-a95b-c667c5d95c34/294966676.png"
+        },
+        "metaInformation": {
+            "duels": "77",
+            "skills": "80",
+            "average": "78",
+            "defence": "68",
+            "passing": "76",
+            "physical": "83",
+            "shooting": "79",
+            "matchLink": "https://youtu.be/cgnA5pkU_IM",
+            "videoLink": "https://youtu.be/IL9-G0eGb1U",
+            "jerseyNumber": "208"
+        },
+        "category": "draft"
+    },
+    {
+        "id": 71542,
+        "shortName": "Victor Hugo",
+        "role": "goalkeeper",
+        "gender": "male",
+        "countryId": 17,
+        "jersey": "33",
+        "birthDate": "1991-01-16",
+        "height": 182,
+        "image": {
+            "url": "https://kingsleague-cdn.kama.football/account/production/player/d0a76e5b-cac2-47bc-b6ef-a767d7c704e1/585309606.png"
+        },
+        "metaInformation": {
+            "duels": "74",
+            "diving": "86",
+            "average": "79",
+            "handling": "77",
+            "reflexes": "81",
+            "matchLink": "https://youtu.be/W6xuMNGXU34",
+            "videoLink": "https://youtu.be/xO18eEXIaOI",
+            "anticipation": "82",
+            "jerseyNumber": "334",
+            "goalkeeperPassing": "77"
+        },
+        "category": "draft"
+    },
+    {
+        "id": 71665,
+        "shortName": "Matheus Dedo",
+        "role": "midfielder",
+        "gender": "male",
+        "countryId": 17,
+        "jersey": "14",
+        "birthDate": "2001-11-17",
+        "height": 181,
+        "image": {
+            "url": "https://kingsleague-cdn.kama.football/account/production/player/da629702-f4dc-41a6-937f-567f341d9caa/874897771.png"
+        },
+        "metaInformation": {
+            "duels": "73",
+            "skills": "70",
+            "average": "73",
+            "defence": "70",
+            "passing": "71",
+            "physical": "81",
+            "shooting": "71",
+            "matchLink": "https://youtu.be/W6xuMNGXU34",
+            "videoLink": "https://youtu.be/U_J_skBVRKw",
+            "jerseyNumber": "75"
+        },
+        "category": "draft"
+    }
+]

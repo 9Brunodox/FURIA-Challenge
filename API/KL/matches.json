@@ -1,0 +1,1069 @@
+{
+    "id": 33,
+    "competitionId": 17,
+    "competition": {
+        "id": 17,
+        "name": "Kings League Brazil",
+        "countryId": 17,
+        "image": {
+            "url": "https://kingsleague-cdn.kama.football/account/production/competition/3b29bfbb-1b51-4533-a1b7-03bff79ce3b4/54998955.png"
+        },
+        "logo": null,
+        "gender": "male",
+        "type": "club",
+        "international": false,
+        "category": null,
+        "competitionType": null,
+        "visible": true
+    },
+    "seasonClusterId": 2,
+    "name": "Kings League Brazil 2024/25 Split 1",
+    "displayName": "Split 1",
+    "start": "2025-03-04T00:00:00.000Z",
+    "finish": "2025-05-18T00:00:00.000Z",
+    "finished": false,
+    "image": {
+        "url": "https://kingsleague-cdn.kama.football/account/production/competitionSeason/d3ef0cff-4e86-45ff-9120-3cefe08b0c77/743052271.png"
+    },
+    "isCurrent": true,
+    "metaInformation": {
+        "position_legend": "[{\"color\": \"green\", \"placement\": \"playoff:semifinal\"},{\"color\": \"yellow\", \"placement\": \"playoff:quarters\"},{\"color\": \"yellow\", \"placement\": \"playoff:quarters\"},{\"color\": \"yellow\", \"placement\": \"playoff:quarters\"},{\"color\": \"yellow\", \"placement\": \"playoff:quarters\"},{\"color\": \"yellow\", \"placement\": \"playoff:quarters\"},{\"color\": \"yellow\", \"placement\": \"playoff:quarters\"}]",
+        "season_partners": "[{\"id\":1,\"imageUrl\":\"https://cms-br.kingsleague.pro/wp-content/uploads/2025/03/logo-adidas.png\",\"name\":\"Adidas\",\"link\":\"#\",\"partnerType\":\"Technical Partner\",\"isFeatured\":false},{\"id\":2,\"imageUrl\":\"https://cms-br.kingsleague.pro/wp-content/uploads/2025/04/logoYoPRO-W.png\",\"name\":\"YoPRO\",\"link\":\"#\",\"partnerType\":\"Main Partner\",\"isFeatured\":false},{\"id\":4,\"imageUrl\":\"https://cms-br.kingsleague.pro/wp-content/uploads/2025/04/logoiFood-W.png\",\"name\":\"ifood\",\"link\":\"#\",\"partnerType\":\"Main Partner\",\"isFeatured\":false},{\"id\":5,\"imageUrl\":\"https://cms-br.kingsleague.pro/wp-content/uploads/2025/04/logoSUPERBET-W.png\",\"name\":\"Superbet\",\"link\":\"#\",\"partnerType\":\"Main Partner\",\"isFeatured\":false},{\"id\":6,\"imageUrl\":\"https://cms-br.kingsleague.pro/wp-content/uploads/2025/04/logoBIS-W.png\",\"name\":\"Bis\",\"link\":\"#\",\"partnerType\":\"Main Partner\",\"isFeatured\":false},{\"id\":7,\"imageUrl\":\"https://cms-br.kingsleague.pro/wp-content/uploads/2025/04/logoTrident-w.png\",\"name\":\"Trident\",\"link\":\"#\",\"partnerType\":\"Main Partner\",\"isFeatured\":false},{\"id\":8,\"imageUrl\":\"https://cms-br.kingsleague.pro/wp-content/uploads/2025/03/logo-macdonalds.png\",\"name\":\"McDonalds\",\"link\":\"#\",\"partnerType\":\"Main Partner\",\"isFeatured\":false},{\"id\":9,\"imageUrl\":\"https://cms-br.kingsleague.pro/wp-content/uploads/2025/04/logoRedBull-W.png\",\"name\":\"RedBull\",\"link\":\"#\",\"partnerType\":\"Main Partner\",\"isFeatured\":false}]"
+    },
+    "winnerTeamId": null,
+    "team": {
+        "id": 50,
+        "name": "Furia FC",
+        "shortName": "FUR",
+        "completeName": "Furia FC",
+        "countryId": 17,
+        "firstColorHEX": "#000000",
+        "secondColorHEX": "#bbc4db",
+        "logo": {
+            "url": "https://kingsleague-cdn.kama.football/account/production/team/248545336.png"
+        },
+        "inverseLogo": null,
+        "heroImage": null,
+        "heroVideo": null,
+        "metaInformation": {
+            "tiktok_url": "https://www.tiktok.com/@furia.football",
+            "twitch_url": "https://www.twitch.tv/furiatv",
+            "twitter_url": "https://x.com/FURIA",
+            "youtube_url": "https://www.youtube.com/@FURIAF.C.",
+            "flag_team_url": "https://cms-es.kingsleague.pro/wp-content/uploads/2024/04/flag-brazil.jpg",
+            "instagram_url": "https://www.instagram.com/furia.football/",
+            "wildcard_kwcc": "13",
+            "loop_video_poster": "https://cms-br.kingsleague.pro/wp-content/uploads/2025/04/KLB-TeamsBkg-09-Furia.png"
+        },
+        "gender": "male",
+        "players": []
+    },
+    "matches": [
+        {
+            "id": 1660,
+            "date": "2025-03-29T21:00:00.000Z",
+            "seasonId": 33,
+            "phaseId": 64,
+            "groupId": 67,
+            "turnId": 315,
+            "status": "ended",
+            "stadiumId": 345,
+            "stadium": {
+                "name": "Kings League Arena Brazil",
+                "image": {
+                    "url": "https://kingsleague-cdn.kama.football/account/production/stadium/5d6dab97-e8f4-4705-80c6-02621c9cf1e9/569477203.png"
+                },
+                "countryId": 17,
+                "country": {
+                    "id": 17,
+                    "name": "Brazil",
+                    "image": null,
+                    "isoCode": "br",
+                    "prefix": "+55"
+                }
+            },
+            "currentMinute": 42,
+            "participants": {
+                "homeTeamId": 161,
+                "homeTeam": {
+                    "id": 161,
+                    "name": "Dendele FC",
+                    "shortName": "DDL",
+                    "completeName": "Dendele FC",
+                    "countryId": 17,
+                    "firstColorHEX": "#1a64b9",
+                    "secondColorHEX": "#f4c91d",
+                    "logo": {
+                        "url": "https://kingsleague-cdn.kama.football/account/production/club/9f1d670a-b1f7-49c3-9bab-c5c1e211a0f9/34418918.png"
+                    },
+                    "inverseLogo": null,
+                    "heroImage": null,
+                    "heroVideo": null,
+                    "metaInformation": {
+                        "tiktok_url": "https://www.tiktok.com/@dendele_fc",
+                        "twitter_url": "https://x.com/Dendele_FC",
+                        "youtube_url": "https://www.youtube.com/@Dendele_FC",
+                        "instagram_url": "https://www.instagram.com/dendele_fc/",
+                        "loop_video_poster": "https://cms-br.kingsleague.pro/wp-content/uploads/2025/04/KLB-TeamsBkg-10-Dendele.png"
+                    },
+                    "gender": "male",
+                    "players": []
+                },
+                "awayTeamId": 50,
+                "awayTeam": {
+                    "id": 50,
+                    "name": "Furia FC",
+                    "shortName": "FUR",
+                    "completeName": "Furia FC",
+                    "countryId": 17,
+                    "firstColorHEX": "#000000",
+                    "secondColorHEX": "#bbc4db",
+                    "logo": {
+                        "url": "https://kingsleague-cdn.kama.football/account/production/team/248545336.png"
+                    },
+                    "inverseLogo": null,
+                    "heroImage": null,
+                    "heroVideo": null,
+                    "metaInformation": {
+                        "tiktok_url": "https://www.tiktok.com/@furia.football",
+                        "twitch_url": "https://www.twitch.tv/furiatv",
+                        "twitter_url": "https://x.com/FURIA",
+                        "youtube_url": "https://www.youtube.com/@FURIAF.C.",
+                        "flag_team_url": "https://cms-es.kingsleague.pro/wp-content/uploads/2024/04/flag-brazil.jpg",
+                        "instagram_url": "https://www.instagram.com/furia.football/",
+                        "wildcard_kwcc": "13",
+                        "loop_video_poster": "https://cms-br.kingsleague.pro/wp-content/uploads/2025/04/KLB-TeamsBkg-09-Furia.png"
+                    },
+                    "gender": "male",
+                    "players": []
+                }
+            },
+            "scores": {
+                "homeScore": 2,
+                "awayScore": 6,
+                "homeScore1T": 1,
+                "awayScore1T": 4,
+                "homeScore2T": 1,
+                "awayScore2T": 2,
+                "homeScore3T": null,
+                "awayScore3T": null,
+                "homeScoreP": null,
+                "awayScoreP": null
+            },
+            "goals": [],
+            "cards": [],
+            "durations": {
+                "duration": null,
+                "duration1T": 20,
+                "duration2T": 20,
+                "duration3T": null,
+                "durationP": null
+            },
+            "weapons": [],
+            "dices": [],
+            "halfs": {
+                "halfNumber": 2,
+                "halfDuration": 23,
+                "halfExtraTimeNumber": null,
+                "halfExtraTimeDuration": null
+            },
+            "metaInformation": {
+                "youtube_url": "https://youtu.be/jI_QpoJrDiA?si=B4Y7XQRtfvOavEpS"
+            }
+        },
+        {
+            "id": 1666,
+            "date": "2025-03-31T22:00:00.000Z",
+            "seasonId": 33,
+            "phaseId": 64,
+            "groupId": 67,
+            "turnId": 316,
+            "status": "ended",
+            "stadiumId": 345,
+            "stadium": {
+                "name": "Kings League Arena Brazil",
+                "image": {
+                    "url": "https://kingsleague-cdn.kama.football/account/production/stadium/5d6dab97-e8f4-4705-80c6-02621c9cf1e9/569477203.png"
+                },
+                "countryId": 17,
+                "country": {
+                    "id": 17,
+                    "name": "Brazil",
+                    "image": null,
+                    "isoCode": "br",
+                    "prefix": "+55"
+                }
+            },
+            "currentMinute": 43,
+            "participants": {
+                "homeTeamId": 50,
+                "homeTeam": {
+                    "id": 50,
+                    "name": "Furia FC",
+                    "shortName": "FUR",
+                    "completeName": "Furia FC",
+                    "countryId": 17,
+                    "firstColorHEX": "#000000",
+                    "secondColorHEX": "#bbc4db",
+                    "logo": {
+                        "url": "https://kingsleague-cdn.kama.football/account/production/team/248545336.png"
+                    },
+                    "inverseLogo": null,
+                    "heroImage": null,
+                    "heroVideo": null,
+                    "metaInformation": {
+                        "tiktok_url": "https://www.tiktok.com/@furia.football",
+                        "twitch_url": "https://www.twitch.tv/furiatv",
+                        "twitter_url": "https://x.com/FURIA",
+                        "youtube_url": "https://www.youtube.com/@FURIAF.C.",
+                        "flag_team_url": "https://cms-es.kingsleague.pro/wp-content/uploads/2024/04/flag-brazil.jpg",
+                        "instagram_url": "https://www.instagram.com/furia.football/",
+                        "wildcard_kwcc": "13",
+                        "loop_video_poster": "https://cms-br.kingsleague.pro/wp-content/uploads/2025/04/KLB-TeamsBkg-09-Furia.png"
+                    },
+                    "gender": "male",
+                    "players": []
+                },
+                "awayTeamId": 166,
+                "awayTeam": {
+                    "id": 166,
+                    "name": "FC Real Elite",
+                    "shortName": "ELT",
+                    "completeName": "FC Real Elite",
+                    "countryId": 17,
+                    "firstColorHEX": "#0037ff",
+                    "secondColorHEX": "#1de6f1",
+                    "logo": {
+                        "url": "https://kingsleague-cdn.kama.football/account/production/club/a137ac60-242a-4d20-a151-7a60b316b95f/847032370.png"
+                    },
+                    "inverseLogo": null,
+                    "heroImage": null,
+                    "heroVideo": null,
+                    "metaInformation": {
+                        "tiktok_url": "https://www.tiktok.com/@fc_realelite",
+                        "twitter_url": "https://x.com/fc_realelite",
+                        "instagram_url": "https://www.instagram.com/fc_realelite/",
+                        "loop_video_poster": "https://cms-br.kingsleague.pro/wp-content/uploads/2025/04/KLB-TeamsBkg-03-Real.png"
+                    },
+                    "gender": "male",
+                    "players": []
+                }
+            },
+            "scores": {
+                "homeScore": 4,
+                "awayScore": 2,
+                "homeScore1T": 2,
+                "awayScore1T": 2,
+                "homeScore2T": 2,
+                "awayScore2T": 0,
+                "homeScore3T": null,
+                "awayScore3T": null,
+                "homeScoreP": null,
+                "awayScoreP": null
+            },
+            "goals": [],
+            "cards": [],
+            "durations": {
+                "duration": null,
+                "duration1T": 20,
+                "duration2T": 20,
+                "duration3T": null,
+                "durationP": null
+            },
+            "weapons": [],
+            "dices": [],
+            "halfs": {
+                "halfNumber": 2,
+                "halfDuration": 20,
+                "halfExtraTimeNumber": null,
+                "halfExtraTimeDuration": null
+            },
+            "metaInformation": {
+                "youtube_url": "https://youtu.be/zCVx-tgE-qE?si=JTlxme9MiKgLpbC1"
+            }
+        },
+        {
+            "id": 1673,
+            "date": "2025-04-08T00:00:00.000Z",
+            "seasonId": 33,
+            "phaseId": 64,
+            "groupId": 67,
+            "turnId": 317,
+            "status": "ended",
+            "stadiumId": 345,
+            "stadium": {
+                "name": "Kings League Arena Brazil",
+                "image": {
+                    "url": "https://kingsleague-cdn.kama.football/account/production/stadium/5d6dab97-e8f4-4705-80c6-02621c9cf1e9/569477203.png"
+                },
+                "countryId": 17,
+                "country": {
+                    "id": 17,
+                    "name": "Brazil",
+                    "image": null,
+                    "isoCode": "br",
+                    "prefix": "+55"
+                }
+            },
+            "currentMinute": 44,
+            "participants": {
+                "homeTeamId": 50,
+                "homeTeam": {
+                    "id": 50,
+                    "name": "Furia FC",
+                    "shortName": "FUR",
+                    "completeName": "Furia FC",
+                    "countryId": 17,
+                    "firstColorHEX": "#000000",
+                    "secondColorHEX": "#bbc4db",
+                    "logo": {
+                        "url": "https://kingsleague-cdn.kama.football/account/production/team/248545336.png"
+                    },
+                    "inverseLogo": null,
+                    "heroImage": null,
+                    "heroVideo": null,
+                    "metaInformation": {
+                        "tiktok_url": "https://www.tiktok.com/@furia.football",
+                        "twitch_url": "https://www.twitch.tv/furiatv",
+                        "twitter_url": "https://x.com/FURIA",
+                        "youtube_url": "https://www.youtube.com/@FURIAF.C.",
+                        "flag_team_url": "https://cms-es.kingsleague.pro/wp-content/uploads/2024/04/flag-brazil.jpg",
+                        "instagram_url": "https://www.instagram.com/furia.football/",
+                        "wildcard_kwcc": "13",
+                        "loop_video_poster": "https://cms-br.kingsleague.pro/wp-content/uploads/2025/04/KLB-TeamsBkg-09-Furia.png"
+                    },
+                    "gender": "male",
+                    "players": []
+                },
+                "awayTeamId": 163,
+                "awayTeam": {
+                    "id": 163,
+                    "name": "Nyvelados FC",
+                    "shortName": "NYV",
+                    "completeName": "Nyvelados FC",
+                    "countryId": 17,
+                    "firstColorHEX": "#e6178b",
+                    "secondColorHEX": "#460b85",
+                    "logo": {
+                        "url": "https://kingsleague-cdn.kama.football/account/production/club/6e150f9c-ae27-48bd-b4bf-64c53ab7fa51/111470765.png"
+                    },
+                    "inverseLogo": null,
+                    "heroImage": null,
+                    "heroVideo": null,
+                    "metaInformation": {
+                        "tiktok_url": "https://www.tiktok.com/@nyveladosoficial",
+                        "twitch_url": "https://www.twitch.tv/nyviestephan",
+                        "youtube_url": "https://www.youtube.com/@Nyvelados",
+                        "instagram_url": "https://x.com/nyvelados",
+                        "loop_video_poster": "https://cms-br.kingsleague.pro/wp-content/uploads/2025/04/KLB-TeamsBkg-06-Nyvelados.png"
+                    },
+                    "gender": "male",
+                    "players": []
+                }
+            },
+            "scores": {
+                "homeScore": 5,
+                "awayScore": 0,
+                "homeScore1T": 1,
+                "awayScore1T": 0,
+                "homeScore2T": 4,
+                "awayScore2T": 0,
+                "homeScore3T": null,
+                "awayScore3T": null,
+                "homeScoreP": null,
+                "awayScoreP": null
+            },
+            "goals": [],
+            "cards": [],
+            "durations": {
+                "duration": null,
+                "duration1T": 20,
+                "duration2T": 20,
+                "duration3T": null,
+                "durationP": null
+            },
+            "weapons": [],
+            "dices": [],
+            "halfs": {
+                "halfNumber": 2,
+                "halfDuration": 20,
+                "halfExtraTimeNumber": null,
+                "halfExtraTimeDuration": null
+            },
+            "metaInformation": {
+                "youtube_url": "https://youtu.be/_PGvrrkYblY?si=7S606SxGI1G4Z0Do"
+            }
+        },
+        {
+            "id": 1674,
+            "date": "2025-04-15T00:00:00.000Z",
+            "seasonId": 33,
+            "phaseId": 64,
+            "groupId": 67,
+            "turnId": 318,
+            "status": "ended",
+            "stadiumId": 345,
+            "stadium": {
+                "name": "Kings League Arena Brazil",
+                "image": {
+                    "url": "https://kingsleague-cdn.kama.football/account/production/stadium/5d6dab97-e8f4-4705-80c6-02621c9cf1e9/569477203.png"
+                },
+                "countryId": 17,
+                "country": {
+                    "id": 17,
+                    "name": "Brazil",
+                    "image": null,
+                    "isoCode": "br",
+                    "prefix": "+55"
+                }
+            },
+            "currentMinute": 42,
+            "participants": {
+                "homeTeamId": 50,
+                "homeTeam": {
+                    "id": 50,
+                    "name": "Furia FC",
+                    "shortName": "FUR",
+                    "completeName": "Furia FC",
+                    "countryId": 17,
+                    "firstColorHEX": "#000000",
+                    "secondColorHEX": "#bbc4db",
+                    "logo": {
+                        "url": "https://kingsleague-cdn.kama.football/account/production/team/248545336.png"
+                    },
+                    "inverseLogo": null,
+                    "heroImage": null,
+                    "heroVideo": null,
+                    "metaInformation": {
+                        "tiktok_url": "https://www.tiktok.com/@furia.football",
+                        "twitch_url": "https://www.twitch.tv/furiatv",
+                        "twitter_url": "https://x.com/FURIA",
+                        "youtube_url": "https://www.youtube.com/@FURIAF.C.",
+                        "flag_team_url": "https://cms-es.kingsleague.pro/wp-content/uploads/2024/04/flag-brazil.jpg",
+                        "instagram_url": "https://www.instagram.com/furia.football/",
+                        "wildcard_kwcc": "13",
+                        "loop_video_poster": "https://cms-br.kingsleague.pro/wp-content/uploads/2025/04/KLB-TeamsBkg-09-Furia.png"
+                    },
+                    "gender": "male",
+                    "players": []
+                },
+                "awayTeamId": 162,
+                "awayTeam": {
+                    "id": 162,
+                    "name": "LOUD SC",
+                    "shortName": "LSC",
+                    "completeName": "LOUD SC",
+                    "countryId": 17,
+                    "firstColorHEX": "#69b42e",
+                    "secondColorHEX": "#1d3626",
+                    "logo": {
+                        "url": "https://kingsleague-cdn.kama.football/account/production/club/7f27068c-19a7-4fc6-af17-ace16f1d7f1b/308152555.png"
+                    },
+                    "inverseLogo": null,
+                    "heroImage": null,
+                    "heroVideo": null,
+                    "metaInformation": {
+                        "tiktok_url": "https://www.tiktok.com/@loudsportsclub",
+                        "twitch_url": "https://www.twitch.tv/loud_coringa",
+                        "twitter_url": "https://x.com/LOUDSportsClub",
+                        "youtube_url": "https://www.youtube.com/@LOUDSC",
+                        "instagram_url": "https://www.instagram.com/loudsportsclub/",
+                        "loop_video_poster": "https://cms-br.kingsleague.pro/wp-content/uploads/2025/04/KLB-TeamsBkg-04-Loud.png"
+                    },
+                    "gender": "male",
+                    "players": []
+                }
+            },
+            "scores": {
+                "homeScore": 6,
+                "awayScore": 1,
+                "homeScore1T": 3,
+                "awayScore1T": 1,
+                "homeScore2T": 3,
+                "awayScore2T": 0,
+                "homeScore3T": null,
+                "awayScore3T": null,
+                "homeScoreP": null,
+                "awayScoreP": null
+            },
+            "goals": [],
+            "cards": [],
+            "durations": {
+                "duration": null,
+                "duration1T": null,
+                "duration2T": null,
+                "duration3T": null,
+                "durationP": null
+            },
+            "weapons": [],
+            "dices": [],
+            "halfs": {
+                "halfNumber": 2,
+                "halfDuration": 20,
+                "halfExtraTimeNumber": null,
+                "halfExtraTimeDuration": null
+            },
+            "metaInformation": {
+                "youtube_url": "https://youtu.be/378jl-fJADs?si=YGVbP7bVTnzrEJEf"
+            }
+        },
+        {
+            "id": 1683,
+            "date": "2025-04-21T23:00:00.000Z",
+            "seasonId": 33,
+            "phaseId": 64,
+            "groupId": 67,
+            "turnId": 319,
+            "status": "ended",
+            "stadiumId": 345,
+            "stadium": {
+                "name": "Kings League Arena Brazil",
+                "image": {
+                    "url": "https://kingsleague-cdn.kama.football/account/production/stadium/5d6dab97-e8f4-4705-80c6-02621c9cf1e9/569477203.png"
+                },
+                "countryId": 17,
+                "country": {
+                    "id": 17,
+                    "name": "Brazil",
+                    "image": null,
+                    "isoCode": "br",
+                    "prefix": "+55"
+                }
+            },
+            "currentMinute": 43,
+            "participants": {
+                "homeTeamId": 49,
+                "homeTeam": {
+                    "id": 49,
+                    "name": "G3X FC",
+                    "shortName": "G3X",
+                    "completeName": "G3X FC",
+                    "countryId": 17,
+                    "firstColorHEX": "#ffffff",
+                    "secondColorHEX": "#01426a",
+                    "logo": {
+                        "url": "https://kingsleague-cdn.kama.football/account/production/team/656771885.png"
+                    },
+                    "inverseLogo": null,
+                    "heroImage": null,
+                    "heroVideo": null,
+                    "metaInformation": {
+                        "tiktok_url": "https://www.tiktok.com/@g3xfc",
+                        "twitch_url": "https://www.twitch.tv/gaules",
+                        "twitter_url": "https://twitter.com/g3xFC",
+                        "youtube_url": "https://www.youtube.com/@g3xfc",
+                        "flag_team_url": "https://cms-es.kingsleague.pro/wp-content/uploads/2024/04/flag-brazil.jpg",
+                        "instagram_url": "https://www.instagram.com/g3xfc/",
+                        "wildcard_kwcc": "13",
+                        "loop_video_poster": "https://cms-br.kingsleague.pro/wp-content/uploads/2025/04/KLB-TeamsBkg-08-G3x.png"
+                    },
+                    "gender": "male",
+                    "players": []
+                },
+                "awayTeamId": 50,
+                "awayTeam": {
+                    "id": 50,
+                    "name": "Furia FC",
+                    "shortName": "FUR",
+                    "completeName": "Furia FC",
+                    "countryId": 17,
+                    "firstColorHEX": "#000000",
+                    "secondColorHEX": "#bbc4db",
+                    "logo": {
+                        "url": "https://kingsleague-cdn.kama.football/account/production/team/248545336.png"
+                    },
+                    "inverseLogo": null,
+                    "heroImage": null,
+                    "heroVideo": null,
+                    "metaInformation": {
+                        "tiktok_url": "https://www.tiktok.com/@furia.football",
+                        "twitch_url": "https://www.twitch.tv/furiatv",
+                        "twitter_url": "https://x.com/FURIA",
+                        "youtube_url": "https://www.youtube.com/@FURIAF.C.",
+                        "flag_team_url": "https://cms-es.kingsleague.pro/wp-content/uploads/2024/04/flag-brazil.jpg",
+                        "instagram_url": "https://www.instagram.com/furia.football/",
+                        "wildcard_kwcc": "13",
+                        "loop_video_poster": "https://cms-br.kingsleague.pro/wp-content/uploads/2025/04/KLB-TeamsBkg-09-Furia.png"
+                    },
+                    "gender": "male",
+                    "players": []
+                }
+            },
+            "scores": {
+                "homeScore": 7,
+                "awayScore": 9,
+                "homeScore1T": 3,
+                "awayScore1T": 5,
+                "homeScore2T": 4,
+                "awayScore2T": 4,
+                "homeScore3T": null,
+                "awayScore3T": null,
+                "homeScoreP": null,
+                "awayScoreP": null
+            },
+            "goals": [],
+            "cards": [],
+            "durations": {
+                "duration": null,
+                "duration1T": null,
+                "duration2T": null,
+                "duration3T": null,
+                "durationP": null
+            },
+            "weapons": [],
+            "dices": [],
+            "halfs": {
+                "halfNumber": 2,
+                "halfDuration": 20,
+                "halfExtraTimeNumber": null,
+                "halfExtraTimeDuration": null
+            },
+            "metaInformation": {
+                "youtube_url": "https://youtu.be/SXlS-WRgFK4?si=iniLa2Ddc_0rAvnR"
+            }
+        },
+        {
+            "id": 1687,
+            "date": "2025-04-26T20:00:00.000Z",
+            "seasonId": 33,
+            "phaseId": 64,
+            "groupId": 67,
+            "turnId": 320,
+            "status": "ended",
+            "stadiumId": 345,
+            "stadium": {
+                "name": "Kings League Arena Brazil",
+                "image": {
+                    "url": "https://kingsleague-cdn.kama.football/account/production/stadium/5d6dab97-e8f4-4705-80c6-02621c9cf1e9/569477203.png"
+                },
+                "countryId": 17,
+                "country": {
+                    "id": 17,
+                    "name": "Brazil",
+                    "image": null,
+                    "isoCode": "br",
+                    "prefix": "+55"
+                }
+            },
+            "currentMinute": 52,
+            "participants": {
+                "homeTeamId": 168,
+                "homeTeam": {
+                    "id": 168,
+                    "name": "Desimpedidos Goti",
+                    "shortName": "DMG",
+                    "completeName": "Desimpedidos Goti",
+                    "countryId": 17,
+                    "firstColorHEX": "#263784",
+                    "secondColorHEX": "#51b169",
+                    "logo": {
+                        "url": "https://kingsleague-cdn.kama.football/account/production/club/e366a07d-c7c2-4b33-a301-2399458ae670/52359314.png"
+                    },
+                    "inverseLogo": null,
+                    "heroImage": null,
+                    "heroVideo": null,
+                    "metaInformation": {
+                        "tiktok_url": "https://www.tiktok.com/@desimpedidosgoti",
+                        "twitch_url": "https://www.twitch.tv/desimpedidos",
+                        "twitter_url": "https://x.com/desimpedidos",
+                        "youtube_url": "https://www.youtube.com/@desimpedidos",
+                        "instagram_url": "https://www.instagram.com/desimpedidosgoti/",
+                        "loop_video_poster": "https://cms-br.kingsleague.pro/wp-content/uploads/2025/04/KLB-TeamsBkg-02-Desimpedidos.png"
+                    },
+                    "gender": "male",
+                    "players": []
+                },
+                "awayTeamId": 50,
+                "awayTeam": {
+                    "id": 50,
+                    "name": "Furia FC",
+                    "shortName": "FUR",
+                    "completeName": "Furia FC",
+                    "countryId": 17,
+                    "firstColorHEX": "#000000",
+                    "secondColorHEX": "#bbc4db",
+                    "logo": {
+                        "url": "https://kingsleague-cdn.kama.football/account/production/team/248545336.png"
+                    },
+                    "inverseLogo": null,
+                    "heroImage": null,
+                    "heroVideo": null,
+                    "metaInformation": {
+                        "tiktok_url": "https://www.tiktok.com/@furia.football",
+                        "twitch_url": "https://www.twitch.tv/furiatv",
+                        "twitter_url": "https://x.com/FURIA",
+                        "youtube_url": "https://www.youtube.com/@FURIAF.C.",
+                        "flag_team_url": "https://cms-es.kingsleague.pro/wp-content/uploads/2024/04/flag-brazil.jpg",
+                        "instagram_url": "https://www.instagram.com/furia.football/",
+                        "wildcard_kwcc": "13",
+                        "loop_video_poster": "https://cms-br.kingsleague.pro/wp-content/uploads/2025/04/KLB-TeamsBkg-09-Furia.png"
+                    },
+                    "gender": "male",
+                    "players": []
+                }
+            },
+            "scores": {
+                "homeScore": 5,
+                "awayScore": 5,
+                "homeScore1T": 3,
+                "awayScore1T": 3,
+                "homeScore2T": 2,
+                "awayScore2T": 2,
+                "homeScore3T": null,
+                "awayScore3T": null,
+                "homeScoreP": 3,
+                "awayScoreP": 2
+            },
+            "goals": [],
+            "cards": [],
+            "durations": {
+                "duration": 12,
+                "duration1T": null,
+                "duration2T": null,
+                "duration3T": 12,
+                "durationP": null
+            },
+            "weapons": [],
+            "dices": [],
+            "halfs": {
+                "halfNumber": 2,
+                "halfDuration": 20,
+                "halfExtraTimeNumber": null,
+                "halfExtraTimeDuration": null
+            },
+            "metaInformation": {
+                "youtube_url": "https://youtu.be/4dfMMzBV2m0?si=XuQPflM5IOadKZUT"
+            }
+        },
+        {
+            "id": 1690,
+            "date": "2025-04-29T00:00:00.000Z",
+            "seasonId": 33,
+            "phaseId": 64,
+            "groupId": 67,
+            "turnId": 321,
+            "status": "ended",
+            "stadiumId": 345,
+            "stadium": {
+                "name": "Kings League Arena Brazil",
+                "image": {
+                    "url": "https://kingsleague-cdn.kama.football/account/production/stadium/5d6dab97-e8f4-4705-80c6-02621c9cf1e9/569477203.png"
+                },
+                "countryId": 17,
+                "country": {
+                    "id": 17,
+                    "name": "Brazil",
+                    "image": null,
+                    "isoCode": "br",
+                    "prefix": "+55"
+                }
+            },
+            "currentMinute": 43,
+            "participants": {
+                "homeTeamId": 167,
+                "homeTeam": {
+                    "id": 167,
+                    "name": "Capim FC",
+                    "shortName": "CAP",
+                    "completeName": "Capim FC",
+                    "countryId": 17,
+                    "firstColorHEX": "#58fc51",
+                    "secondColorHEX": "#d9ff32",
+                    "logo": {
+                        "url": "https://kingsleague-cdn.kama.football/account/production/club/0ad9b547-488c-4734-9388-ce5e3c0ce4e7/321393770.png"
+                    },
+                    "inverseLogo": null,
+                    "heroImage": null,
+                    "heroVideo": null,
+                    "metaInformation": {
+                        "twitter_url": "https://x.com/CapimFootball",
+                        "youtube_url": "https://www.youtube.com/@capimfc",
+                        "instagram_url": "https://www.instagram.com/capim.football/",
+                        "loop_video_poster": "https://cms-br.kingsleague.pro/wp-content/uploads/2025/04/KLB-TeamsBkg-07-Capim.png"
+                    },
+                    "gender": "male",
+                    "players": []
+                },
+                "awayTeamId": 50,
+                "awayTeam": {
+                    "id": 50,
+                    "name": "Furia FC",
+                    "shortName": "FUR",
+                    "completeName": "Furia FC",
+                    "countryId": 17,
+                    "firstColorHEX": "#000000",
+                    "secondColorHEX": "#bbc4db",
+                    "logo": {
+                        "url": "https://kingsleague-cdn.kama.football/account/production/team/248545336.png"
+                    },
+                    "inverseLogo": null,
+                    "heroImage": null,
+                    "heroVideo": null,
+                    "metaInformation": {
+                        "tiktok_url": "https://www.tiktok.com/@furia.football",
+                        "twitch_url": "https://www.twitch.tv/furiatv",
+                        "twitter_url": "https://x.com/FURIA",
+                        "youtube_url": "https://www.youtube.com/@FURIAF.C.",
+                        "flag_team_url": "https://cms-es.kingsleague.pro/wp-content/uploads/2024/04/flag-brazil.jpg",
+                        "instagram_url": "https://www.instagram.com/furia.football/",
+                        "wildcard_kwcc": "13",
+                        "loop_video_poster": "https://cms-br.kingsleague.pro/wp-content/uploads/2025/04/KLB-TeamsBkg-09-Furia.png"
+                    },
+                    "gender": "male",
+                    "players": []
+                }
+            },
+            "scores": {
+                "homeScore": 2,
+                "awayScore": 4,
+                "homeScore1T": 1,
+                "awayScore1T": 2,
+                "homeScore2T": 1,
+                "awayScore2T": 2,
+                "homeScore3T": null,
+                "awayScore3T": null,
+                "homeScoreP": null,
+                "awayScoreP": null
+            },
+            "goals": [],
+            "cards": [],
+            "durations": {
+                "duration": null,
+                "duration1T": null,
+                "duration2T": null,
+                "duration3T": null,
+                "durationP": null
+            },
+            "weapons": [],
+            "dices": [],
+            "halfs": {
+                "halfNumber": 2,
+                "halfDuration": 20,
+                "halfExtraTimeNumber": null,
+                "halfExtraTimeDuration": null
+            },
+            "metaInformation": {
+                "youtube_url": "https://youtu.be/7Mgz-6a-1og?si=SnWHUQLn4XloZF7q"
+            }
+        },
+        {
+            "id": 1698,
+            "date": "2025-05-03T22:00:00.000Z",
+            "seasonId": 33,
+            "phaseId": 64,
+            "groupId": 67,
+            "turnId": 322,
+            "status": null,
+            "stadiumId": 345,
+            "stadium": {
+                "name": "Kings League Arena Brazil",
+                "image": {
+                    "url": "https://kingsleague-cdn.kama.football/account/production/stadium/5d6dab97-e8f4-4705-80c6-02621c9cf1e9/569477203.png"
+                },
+                "countryId": 17,
+                "country": {
+                    "id": 17,
+                    "name": "Brazil",
+                    "image": null,
+                    "isoCode": "br",
+                    "prefix": "+55"
+                }
+            },
+            "currentMinute": null,
+            "participants": {
+                "homeTeamId": 164,
+                "homeTeam": {
+                    "id": 164,
+                    "name": "Funkbol Clube",
+                    "shortName": "FNK",
+                    "completeName": "Funkbol Clube",
+                    "countryId": 17,
+                    "firstColorHEX": "#e6227c",
+                    "secondColorHEX": "#543795",
+                    "logo": {
+                        "url": "https://kingsleague-cdn.kama.football/account/production/club/a3433872-a2aa-43a9-a0f8-41847b178361/422484357.png"
+                    },
+                    "inverseLogo": null,
+                    "heroImage": null,
+                    "heroVideo": null,
+                    "metaInformation": {
+                        "tiktok_url": "https://www.tiktok.com/@funkbol.clube",
+                        "twitter_url": "https://x.com/funkbolclube",
+                        "youtube_url": "https://www.youtube.com/@KondZilla",
+                        "instagram_url": "https://www.instagram.com/funkbolclube/",
+                        "loop_video_poster": "https://cms-br.kingsleague.pro/wp-content/uploads/2025/04/KLB-TeamsBkg-05-Funkbol.png"
+                    },
+                    "gender": "male",
+                    "players": []
+                },
+                "awayTeamId": 50,
+                "awayTeam": {
+                    "id": 50,
+                    "name": "Furia FC",
+                    "shortName": "FUR",
+                    "completeName": "Furia FC",
+                    "countryId": 17,
+                    "firstColorHEX": "#000000",
+                    "secondColorHEX": "#bbc4db",
+                    "logo": {
+                        "url": "https://kingsleague-cdn.kama.football/account/production/team/248545336.png"
+                    },
+                    "inverseLogo": null,
+                    "heroImage": null,
+                    "heroVideo": null,
+                    "metaInformation": {
+                        "tiktok_url": "https://www.tiktok.com/@furia.football",
+                        "twitch_url": "https://www.twitch.tv/furiatv",
+                        "twitter_url": "https://x.com/FURIA",
+                        "youtube_url": "https://www.youtube.com/@FURIAF.C.",
+                        "flag_team_url": "https://cms-es.kingsleague.pro/wp-content/uploads/2024/04/flag-brazil.jpg",
+                        "instagram_url": "https://www.instagram.com/furia.football/",
+                        "wildcard_kwcc": "13",
+                        "loop_video_poster": "https://cms-br.kingsleague.pro/wp-content/uploads/2025/04/KLB-TeamsBkg-09-Furia.png"
+                    },
+                    "gender": "male",
+                    "players": []
+                }
+            },
+            "scores": {
+                "homeScore": null,
+                "awayScore": null,
+                "homeScore1T": null,
+                "awayScore1T": null,
+                "homeScore2T": null,
+                "awayScore2T": null,
+                "homeScore3T": null,
+                "awayScore3T": null,
+                "homeScoreP": null,
+                "awayScoreP": null
+            },
+            "goals": [],
+            "cards": [],
+            "durations": {
+                "duration": null,
+                "duration1T": null,
+                "duration2T": null,
+                "duration3T": null,
+                "durationP": null
+            },
+            "weapons": [],
+            "dices": [],
+            "halfs": {
+                "halfNumber": 2,
+                "halfDuration": 20,
+                "halfExtraTimeNumber": null,
+                "halfExtraTimeDuration": null
+            },
+            "metaInformation": null
+        },
+        {
+            "id": 1701,
+            "date": "2025-05-05T20:00:00.000Z",
+            "seasonId": 33,
+            "phaseId": 64,
+            "groupId": 67,
+            "turnId": 323,
+            "status": null,
+            "stadiumId": 345,
+            "stadium": {
+                "name": "Kings League Arena Brazil",
+                "image": {
+                    "url": "https://kingsleague-cdn.kama.football/account/production/stadium/5d6dab97-e8f4-4705-80c6-02621c9cf1e9/569477203.png"
+                },
+                "countryId": 17,
+                "country": {
+                    "id": 17,
+                    "name": "Brazil",
+                    "image": null,
+                    "isoCode": "br",
+                    "prefix": "+55"
+                }
+            },
+            "currentMinute": null,
+            "participants": {
+                "homeTeamId": 160,
+                "homeTeam": {
+                    "id": 160,
+                    "name": "Fluxo FC",
+                    "shortName": "FLX",
+                    "completeName": "Fluxo FC",
+                    "countryId": 17,
+                    "firstColorHEX": "#000000",
+                    "secondColorHEX": "#514797",
+                    "logo": {
+                        "url": "https://kingsleague-cdn.kama.football/account/production/club/38688186-97e4-4a4e-8642-ef44cd83ba67/6416982.png"
+                    },
+                    "inverseLogo": null,
+                    "heroImage": null,
+                    "heroVideo": null,
+                    "metaInformation": {
+                        "tiktok_url": "https://www.tiktok.com/@fluxo_fc",
+                        "twitter_url": "https://x.com/fluxogg",
+                        "instagram_url": "https://www.instagram.com/fluxo_fut7/",
+                        "loop_video_poster": "https://cms-br.kingsleague.pro/wp-content/uploads/2025/04/KLB-TeamsBkg-01-Fluxo.png"
+                    },
+                    "gender": "male",
+                    "players": []
+                },
+                "awayTeamId": 50,
+                "awayTeam": {
+                    "id": 50,
+                    "name": "Furia FC",
+                    "shortName": "FUR",
+                    "completeName": "Furia FC",
+                    "countryId": 17,
+                    "firstColorHEX": "#000000",
+                    "secondColorHEX": "#bbc4db",
+                    "logo": {
+                        "url": "https://kingsleague-cdn.kama.football/account/production/team/248545336.png"
+                    },
+                    "inverseLogo": null,
+                    "heroImage": null,
+                    "heroVideo": null,
+                    "metaInformation": {
+                        "tiktok_url": "https://www.tiktok.com/@furia.football",
+                        "twitch_url": "https://www.twitch.tv/furiatv",
+                        "twitter_url": "https://x.com/FURIA",
+                        "youtube_url": "https://www.youtube.com/@FURIAF.C.",
+                        "flag_team_url": "https://cms-es.kingsleague.pro/wp-content/uploads/2024/04/flag-brazil.jpg",
+                        "instagram_url": "https://www.instagram.com/furia.football/",
+                        "wildcard_kwcc": "13",
+                        "loop_video_poster": "https://cms-br.kingsleague.pro/wp-content/uploads/2025/04/KLB-TeamsBkg-09-Furia.png"
+                    },
+                    "gender": "male",
+                    "players": []
+                }
+            },
+            "scores": {
+                "homeScore": null,
+                "awayScore": null,
+                "homeScore1T": null,
+                "awayScore1T": null,
+                "homeScore2T": null,
+                "awayScore2T": null,
+                "homeScore3T": null,
+                "awayScore3T": null,
+                "homeScoreP": null,
+                "awayScoreP": null
+            },
+            "goals": [],
+            "cards": [],
+            "durations": {
+                "duration": null,
+                "duration1T": null,
+                "duration2T": null,
+                "duration3T": null,
+                "durationP": null
+            },
+            "weapons": [],
+            "dices": [],
+            "halfs": {
+                "halfNumber": 2,
+                "halfDuration": 20,
+                "halfExtraTimeNumber": null,
+                "halfExtraTimeDuration": null
+            },
+            "metaInformation": null
+        }
+    ]
+}

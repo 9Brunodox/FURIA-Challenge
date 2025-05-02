@@ -1,0 +1,95 @@
+{
+    "id": 33,
+    "competitionId": 17,
+    "competition": {
+        "id": 17,
+        "name": "Kings League Brazil",
+        "countryId": 17,
+        "image": {
+            "url": "https://kingsleague-cdn.kama.football/account/production/competition/3b29bfbb-1b51-4533-a1b7-03bff79ce3b4/54998955.png"
+        },
+        "logo": null,
+        "gender": "male",
+        "type": "club",
+        "international": false,
+        "category": null,
+        "competitionType": null,
+        "visible": true
+    },
+    "seasonClusterId": 2,
+    "name": "Kings League Brazil 2024/25 Split 1",
+    "displayName": "Split 1",
+    "start": "2025-03-04T00:00:00.000Z",
+    "finish": "2025-05-18T00:00:00.000Z",
+    "finished": false,
+    "image": {
+        "url": "https://kingsleague-cdn.kama.football/account/production/competitionSeason/d3ef0cff-4e86-45ff-9120-3cefe08b0c77/743052271.png"
+    },
+    "isCurrent": true,
+    "metaInformation": {
+        "position_legend": "[{\"color\": \"green\", \"placement\": \"playoff:semifinal\"},{\"color\": \"yellow\", \"placement\": \"playoff:quarters\"},{\"color\": \"yellow\", \"placement\": \"playoff:quarters\"},{\"color\": \"yellow\", \"placement\": \"playoff:quarters\"},{\"color\": \"yellow\", \"placement\": \"playoff:quarters\"},{\"color\": \"yellow\", \"placement\": \"playoff:quarters\"},{\"color\": \"yellow\", \"placement\": \"playoff:quarters\"}]",
+        "season_partners": "[{\"id\":1,\"imageUrl\":\"https://cms-br.kingsleague.pro/wp-content/uploads/2025/03/logo-adidas.png\",\"name\":\"Adidas\",\"link\":\"#\",\"partnerType\":\"Technical Partner\",\"isFeatured\":false},{\"id\":2,\"imageUrl\":\"https://cms-br.kingsleague.pro/wp-content/uploads/2025/04/logoYoPRO-W.png\",\"name\":\"YoPRO\",\"link\":\"#\",\"partnerType\":\"Main Partner\",\"isFeatured\":false},{\"id\":4,\"imageUrl\":\"https://cms-br.kingsleague.pro/wp-content/uploads/2025/04/logoiFood-W.png\",\"name\":\"ifood\",\"link\":\"#\",\"partnerType\":\"Main Partner\",\"isFeatured\":false},{\"id\":5,\"imageUrl\":\"https://cms-br.kingsleague.pro/wp-content/uploads/2025/04/logoSUPERBET-W.png\",\"name\":\"Superbet\",\"link\":\"#\",\"partnerType\":\"Main Partner\",\"isFeatured\":false},{\"id\":6,\"imageUrl\":\"https://cms-br.kingsleague.pro/wp-content/uploads/2025/04/logoBIS-W.png\",\"name\":\"Bis\",\"link\":\"#\",\"partnerType\":\"Main Partner\",\"isFeatured\":false},{\"id\":7,\"imageUrl\":\"https://cms-br.kingsleague.pro/wp-content/uploads/2025/04/logoTrident-w.png\",\"name\":\"Trident\",\"link\":\"#\",\"partnerType\":\"Main Partner\",\"isFeatured\":false},{\"id\":8,\"imageUrl\":\"https://cms-br.kingsleague.pro/wp-content/uploads/2025/03/logo-macdonalds.png\",\"name\":\"McDonalds\",\"link\":\"#\",\"partnerType\":\"Main Partner\",\"isFeatured\":false},{\"id\":9,\"imageUrl\":\"https://cms-br.kingsleague.pro/wp-content/uploads/2025/04/logoRedBull-W.png\",\"name\":\"RedBull\",\"link\":\"#\",\"partnerType\":\"Main Partner\",\"isFeatured\":false}]"
+    },
+    "winnerTeamId": null,
+    "team": {
+        "id": 50,
+        "name": "Furia FC",
+        "shortName": "FUR",
+        "completeName": "Furia FC",
+        "countryId": 17,
+        "firstColorHEX": "#000000",
+        "secondColorHEX": "#bbc4db",
+        "logo": {
+            "url": "https://kingsleague-cdn.kama.football/account/production/team/248545336.png"
+        },
+        "inverseLogo": null,
+        "heroImage": null,
+        "heroVideo": null,
+        "metaInformation": {
+            "tiktok_url": "https://www.tiktok.com/@furia.football",
+            "twitch_url": "https://www.twitch.tv/furiatv",
+            "twitter_url": "https://x.com/FURIA",
+            "youtube_url": "https://www.youtube.com/@FURIAF.C.",
+            "flag_team_url": "https://cms-es.kingsleague.pro/wp-content/uploads/2024/04/flag-brazil.jpg",
+            "instagram_url": "https://www.instagram.com/furia.football/",
+            "wildcard_kwcc": "13",
+            "loop_video_poster": "https://cms-br.kingsleague.pro/wp-content/uploads/2025/04/KLB-TeamsBkg-09-Furia.png"
+        },
+        "gender": "male",
+        "players": []
+    },
+    "staffs": [
+        {
+            "id": 635,
+            "shortName": "Neymar Jr + Cris Guedes",
+            "firstName": "Neymar Jr + Cris Guedes",
+            "middleName": null,
+            "lastName": "Neymar Jr + Cris Guedes",
+            "role": "president",
+            "countryId": 17,
+            "image": {
+                "url": "https://kingsleague-cdn.kama.football/account/production/staff/aee5def7-599f-4020-88d3-2d5d3fd44f1e/627646551.png"
+            },
+            "gender": null,
+            "birthDate": null,
+            "metaInformation": null,
+            "visible": true
+        },
+        {
+            "id": 705,
+            "shortName": "Carlos Eduardo",
+            "firstName": "Carlos Eduardo",
+            "middleName": null,
+            "lastName": "Barbosa de Oliveira",
+            "role": "coach",
+            "countryId": 17,
+            "image": {
+                "url": "https://kingsleague-cdn.kama.football/account/production/staff/5a6831d9-0cb1-4338-aa85-daa1cb109772/970742319.png"
+            },
+            "gender": "male",
+            "birthDate": "1983-12-27",
+            "metaInformation": null,
+            "visible": true
+        }
+    ]
+}
